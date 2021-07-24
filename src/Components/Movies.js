@@ -1,4 +1,6 @@
 import React, { Component } from 'react'
+import About from './About'
+import Home from './Home'
 import { getMovies } from './MovieService'
 import axios from 'axios'
 
